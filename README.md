@@ -1,4 +1,4 @@
-# Movie_Details_WebScraping
+# Python_Web Scraping Movie_Details
 This repository contains Python code for webscraping from rotten tomatoes website. The web scraping project where I took the portal related to movies. By using the URL I have collected all the data from the portal like Movie name, Realised year, Rating given, Director name, Collections, Budget, Genre type, Casting names.
 
 I have performed the below step throughout the project.
